@@ -49,7 +49,7 @@ Dự án tập trung vào việc:
 | Greedy   | 28.21  | 46.64  | 73.63   |
 | Beam 3   | 28.95  | 47.41  | 74.79   |
 
-Kết của với Beam ( size = 3 )
+Kết quả với Beam Search ( size = 3 )
 | Chiều | BLEU  | chrF  | TER  | METEOR  | COMET  |
 |-------|--------|--------|-------|-----------|---------|
 | EN → VI |  28.95  | 47.41  | 51.70 |  57.38     |  74.79  |
