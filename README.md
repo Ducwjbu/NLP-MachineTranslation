@@ -49,6 +49,11 @@ Dự án tập trung vào việc:
 | Greedy   | 28.21  | 46.64  | 73.63   |
 | Beam 3   | 28.95  | 47.41  | 74.79   |
 
+Kết của với Beam ( size = 3 )
+| Chiều | BLEU  | chrF  | TER  | METEOR  | COMET  |
+|-------|--------|--------|-------|-----------|---------|
+| EN → VI |  28.95  | 47.41  | 51.70 |  57.38     |  74.79  |
+| VI → EN | 24.45 | 47.04  | 59.65 |  56.36     | 71.92  |
 ---
 
 ## Bài toán 2: Fine-tuning mô hình Qwen3 cho y tế
